@@ -1809,7 +1809,7 @@ MonoBehaviour:
   missilePrefab: {fileID: 1158892967858799838, guid: e9f2ba31f226b314aa827119efde99ee, type: 3}
   spawnPoint: {fileID: 609041861}
   canon: {fileID: 1251537589}
-  maxAngle: 70
+  maxAngle: 80
   munitionSpeed: 10
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
